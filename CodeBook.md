@@ -1,4 +1,5 @@
 ﻿﻿Code Book - Average Data of Human Activity Recognition Using Smartphones Dataset
+  Variables 3:68 has average values of each variable calculated for each activity and each subject.
 
 1 **subject_id**: identifier to the subject
   **var type**: factor, levels(1:30)
